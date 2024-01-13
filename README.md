@@ -23,7 +23,7 @@ Whether you're a fellow learner eager to explore system design or an experienced
 
 ## Contributing
 
-If you're interested in contributing, check out the [Contributing guidelines]() for information on how to get started. Your contributions, be they bug fixes, new features, or valuable insights, are highly appreciated.
+If you're interested in contributing, check out the [Contributing Guidelines](https://github.com/linhvuquach/system-design-practical/blob/master/CONTRIBUTING.md) for information on how to get started. Your contributions, be they bug fixes, new features, or valuable insights, are highly appreciated.
 
 Thank you for joining me on this exciting journey of learning and mastering system design!
 
