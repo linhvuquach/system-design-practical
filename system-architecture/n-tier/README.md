@@ -43,3 +43,10 @@ Tiers are physically separated, and they can also run on separate machines. A ti
 │   ├── TodoRepository.cs         # Repository for MyApp data access
 │   └── ...                        # Other data access files
 ```
+
+## References
+- https://stackify.com/n-tier-architecture/
+- https://www.baeldung.com/cs/n-tier-architecture
+- https://ca.indeed.com/career-advice/career-development/n-tier-architecture
+- Repositories:
+  - https://github.com/nuyonu/N-Tier-Architecture/tree/main 
