@@ -67,6 +67,21 @@ The ACL can be implemented using various design patterns such as:
 - **Facade Pattern**: To simplify and provide a unified interface for interacting with complex external systems.
 - **Translator/Mapper**: For converting data from one model to another.
 
+## Pros
+
+1. **Improved Communication**: DDD promotes the use of a ubiquitous language, a common language shared by developers and domain experts, which enhances communication and reduces misunderstandings¹.
+2. **Flexibility**: Since the system is built around the business domain, it can adapt more easily to changes in business requirements¹.
+3. **Maintainability**: DDD encourages encapsulation and clear model breakdowns, making the system more maintainable over time¹.
+4. **Focus on Core Domain**: By focusing on the core domain and its logic, DDD helps in building systems that are more aligned with business goals².
+5. **Alignment with Business Needs**: The close collaboration with domain experts ensures that the software meets actual business needs².
+
+## Cons
+
+1. **Complexity**: Implementing DDD can be complex and requires a deep understanding of the domain¹.
+2. **Costly**: The need for continuous collaboration between developers and domain experts can lead to longer development times and higher costs¹.
+3. **Steep Learning Curve**: DDD involves various principles and patterns that can be challenging to master².
+4. **Requires Strong Domain Expertise**: Success with DDD heavily relies on having domain experts who can provide accurate and detailed knowledge¹.
+
 ## Resources
 
 - https://en.wikipedia.org/wiki/Domain-driven_design
@@ -77,6 +92,10 @@ The ACL can be implemented using various design patterns such as:
 - https://awesome-architecture.com/domain-driven-design/aggregation/
 - Aggregates: https://medium.com/@aforank/domain-driven-design-aggregates-in-practice-bcced7d21ae5
 - Bouneded context: https://blog.bitsrc.io/understanding-the-bounded-context-in-microservices-c70c0e189dd1
+- What is Domain-Driven Design (DDD) | Pros & Cons - Codez Up. https://codezup.com/what-is-domain-driven-design-ddd-pros-cons/.
+- Why is Domain-Driven Design (DDD) Important? - Spiceworks. https://www.spiceworks.com/tech/devops/articles/what-is-domain-driven-design/.
+- Benefits and Drawbacks of Domain Driven Design. https://www.educative.io/courses/domain-driven-design/benefits-and-drawbacks-of-domain-driven-design.
+- What is Domain-Driven Design (DDD) and how do you use it?. https://www.acidtango.com/thelemoncrunch/what-is-domain-driven-design-ddd-and-how-do-you-use-it/.
 
 - Images:
 
