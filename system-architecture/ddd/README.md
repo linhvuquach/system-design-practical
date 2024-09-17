@@ -66,3 +66,33 @@ The ACL can be implemented using various design patterns such as:
 - **Adapter Pattern**: For transforming data and interfaces between systems.
 - **Facade Pattern**: To simplify and provide a unified interface for interacting with complex external systems.
 - **Translator/Mapper**: For converting data from one model to another.
+
+## Resources
+
+- https://en.wikipedia.org/wiki/Domain-driven_design
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design
+- https://redis.io/glossary/domain-driven-design-ddd/
+- https://www.geeksforgeeks.org/domain-driven-design-ddd/
+- https://towardsdev.com/you-dont-need-a-book-to-know-ddd-30cd036843bc
+- https://awesome-architecture.com/domain-driven-design/aggregation/
+- Aggregates: https://medium.com/@aforank/domain-driven-design-aggregates-in-practice-bcced7d21ae5
+- Bouneded context: https://blog.bitsrc.io/understanding-the-bounded-context-in-microservices-c70c0e189dd1
+
+- Images:
+
+  - https://blog.bytebytego.com/i/84137023/domain-driven-design-ddd
+  - https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4138b20e-ac72-40a7-a753-cfb1916be3c0_1336x1012.jpeg
+
+- Repositories:
+
+  - https://github.com/ardalis/cleanarchitecture
+
+- Books:
+
+  - https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf
+  - https://www.workingsoftware.dev/the-ultimate-list-of-domain-driven-design-books-in-2024/
+
+- Courses:
+  - https://www.youtube.com/playlist?list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa
+  - https://blog.bytebytego.com/p/a-crash-course-on-domain-driven-design
+  - https://www.pluralsight.com/courses/fundamentals-domain-driven-design
